@@ -1,6 +1,6 @@
 # Rotifer Dataset Samples
 
-`frame.png` is a sampled frame from the microscopic video of the rotifer sample.
+`frame.png` is one sampled frame from the microscopic video of the rotifer sample.
 
 Rotifers, ciliates, and other moving particles were cropped from the video frame and annotated.
 - `/data` contains a small batch of the cropped objects.
